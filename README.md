@@ -46,7 +46,7 @@ This project is a machine learning pipeline for predicting used car prices based
 
 ## Data / Данные
 
-- `data/raw/all_car_adverts.csv` — исходный датасет с объявлениями о продаже автомобилей.
+- `data/raw/all_car_adverts.csv` — исходный датасет с объявлениями о продаже автомобилей. Источник: [Датасет на Kaggle](https://www.kaggle.com/datasets/guanhaopeng/uk-used-car-market)
 - `data/processed/cars_processed.csv` — очищенные и преобразованные данные, готовые для обучения модели.
 
 ---
@@ -55,9 +55,3 @@ This project is a machine learning pipeline for predicting used car prices based
 
 - В ноутбуках используются библиотеки `pandas`, `numpy`, `matplotlib`, `seaborn` и `scikit-learn`.
 - Если данные меняются, рекомендуем повторно запустить шаги очистки и подготовку признаков.
-
----
-
-## License / Лицензия
-
-(Добавьте здесь информацию о лицензии, если требуется.)
