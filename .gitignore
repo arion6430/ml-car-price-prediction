@@ -1,0 +1,22 @@
+# virtual environment
+.venv/
+venv/
+
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# models
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
